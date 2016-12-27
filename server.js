@@ -24,5 +24,7 @@ app.get('commands/byGateway/:id');
 // app.put('/commands/:id', command.updateCommand);
 // app.delete('/commands/:id', command.deleteCommand);
 
+
+
 app.listen(3000);
 console.log('Listening on port 3000...');
